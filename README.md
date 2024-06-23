@@ -1,5 +1,5 @@
-# Introduction
-This branch consists of Python projects as a part of the coding learning path.
+# Intro
+This branch consists of Python projects as a part of the learning path.
 
 **Feature 1**  
 python_basics (learning to code in Python with different courses on Prometheus: QAAUTO101, PDS101)
